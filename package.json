@@ -1,0 +1,14 @@
+{
+    "id": "YoutubeMusic",
+    "name": "YoutubeMusic",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "author": "Gabriel Monteiro Duete <stefan@adlk.io>",
+    "license": "MIT",
+    "repository": "https://github.com/meetfranz/recipe-tweetdeck",
+    "config": {
+      "serviceURL": "https://music.youtube.com"
+    }
+  }
+  
