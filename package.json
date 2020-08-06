@@ -4,9 +4,9 @@
     "version": "0.0.1",
     "description": "",
     "main": "index.js",
-    "author": "Gabriel Monteiro Duete <stefan@adlk.io>",
+    "author": "Gabriel Monteiro Duete <gabrielmonteiroduete@gmail.com>",
     "license": "MIT",
-    "repository": "https://github.com/meetfranz/recipe-tweetdeck",
+    "repository": "https://github.com/gabrielduete/recipe-yt-music",
     "config": {
       "serviceURL": "https://music.youtube.com"
     }
